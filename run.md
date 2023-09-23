@@ -1,3 +1,5 @@
+![image](https://github.com/LSimutina/MQA-2.1/assets/120782609/ee03d064-e9bb-44c6-a66f-56472aa9319b)
+
 2023-09-23 20:15:46: Launching loginActivityTest_L() on 'Pixel 3a API 32.
 Running tests
 Executing tasks: [:app:connectedDebugAndroidTest] in project C:\Users\simut\Desktop\Education QA\MQA\2.1-Avto\mqa-homeworks\2.1 auto\lesson_sample_app
